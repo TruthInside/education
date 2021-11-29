@@ -20,5 +20,6 @@ public class massive5 {
          }
         System.out.println("\nArray after - \n");
         for (int i: array) System.out.print(i + " ");
+        System.out.println("First push");
     }
 }
